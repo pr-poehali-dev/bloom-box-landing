@@ -36,7 +36,7 @@ const Contact = () => {
             </div>
           </div>
 
-          <div className="bg-white rounded-2xl p-8">
+          <div className="bg-white rounded-2xl p-8 py-[150px]">
             <h3 className="text-2xl font-bold text-emerald-900 mb-6">
               Заявка на консультацию
             </h3>
